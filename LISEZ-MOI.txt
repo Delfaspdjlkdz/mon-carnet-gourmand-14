@@ -1,0 +1,1 @@
+VERSION DE TEST — Ne pas remplacer la version en ligne avant validation.\nCe ZIP contient index.html avec partage par WhatsApp, SMS ou e-mail via la feuille de partage du téléphone, et copie du texte.\nLe partage privé entre membres nécessite une configuration Supabase supplémentaire et n’est pas encore activé.\nLes autres fichiers PWA du dépôt restent inchangés.\n
