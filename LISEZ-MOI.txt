@@ -1,0 +1,4 @@
+VERSION DE TEST — Ne remplace pas ton application principale avant validation.
+Ce ZIP contient index.html avec les fonctions de partage entre membres à tester.
+Attention : il utilise le même Supabase que ton application principale. Les envois de test sont réels.
+Les autres fichiers PWA du dépôt restent inchangés.
